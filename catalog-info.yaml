@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: VC4TrustEnablement
+  annotations:
+    github.com/project-slug: tonomusdevportal/VC4TrustEnablement
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://github.com/NEOM-KSA/tel-veramo-wallet/tree/wallet/wallet
+  description: |
+    VC4TrustEnablement
+spec:
+  type: others
+  owner: NEOM-KSA
+  lifecycle: development
