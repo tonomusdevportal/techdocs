@@ -1,6 +1,6 @@
-site_name: 'TestTechDocs'
+site_name: 'TechDocs'
 site_description: 'Some description'
-repo_url: https://github.com/tonomusdevportal/test-techdocs
+repo_url: https://github.com/tonomusdevportal/techdocs
 edit_uri: edit/main/docs
 
 plugins:
