@@ -1,11 +1,11 @@
-site_name: 'VC4TrustEnablement'
+site_name: 'TestTechDocs'
 site_description: 'Some description'
-repo_url: https://github.com/tonomusdevportal/VC4TrustEnablement
+repo_url: https://github.com/tonomusdevportal/test-techdocs
 edit_uri: edit/main/docs
 
 plugins:
   - techdocs-core
 
 nav:
-  - Wallet:
+  - Overview:
   - Issuer & Verifier?: 'issuer_verifier/issuer.md'
